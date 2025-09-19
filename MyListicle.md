@@ -9,31 +9,31 @@
 
 ## Products
 
- - https://www.warhammer.com/en-US/shop/warhammer-40000
- - https://www.warhammer.com/en-US/shop/age-of-sigmar
- - https://www.warhammer.com/en-US/shop/the-horus-heresy
- - https://www.warhammer.com/en-US/shop/the-old-world
- - https://store.steampowered.com/franchise/warhammer
+ - [40k](https://www.warhammer.com/en-US/shop/warhammer-40000)
+ - [Age of Sigmar](https://www.warhammer.com/en-US/shop/age-of-sigmar)
+ - [Horus Heresy](https://www.warhammer.com/en-US/shop/the-horus-heresy)
+ - [The Old World](https://www.warhammer.com/en-US/shop/the-old-world)
+ - [Steam Games](https://store.steampowered.com/franchise/warhammer)
 
 ## 3D Printing
 
- - https://www.thingiverse.com/
- - https://www.printables.com/
- - https://thangs.com/?srsltid=AfmBOork9DhhEmkYZ2m2NXK6GwHukWBLG3YEqo3rlj7hQh0uvpOeakQh
- - https://makerworld.com/en
- - https://www.cgtrader.com/
- - https://www.yeggi.com/
- - https://www.myminifactory.com/
- - https://www.threeding.com/
- - https://cults3d.com/en?srsltid=AfmBOopg8WUsT75EfvM_aQ8EbyZcu40HR_cUcfRGsCZDHRcZbnNO7zkW
- - https://pinshape.com/
+ - [Thingiverse](https://www.thingiverse.com/)
+ - [Printables](https://www.printables.com/)
+ - [Thangs](https://thangs.com/?srsltid=AfmBOork9DhhEmkYZ2m2NXK6GwHukWBLG3YEqo3rlj7hQh0uvpOeakQh)
+ - [Makerworld](https://makerworld.com/en)
+ - [Cgtrader](https://www.cgtrader.com/)
+ - [Yeggi](https://www.yeggi.com/)
+ - [My Mini Factory](https://www.myminifactory.com/)
+ - [Threeding](https://www.threeding.com/)
+ - [Cults3D](https://cults3d.com/en?srsltid=AfmBOopg8WUsT75EfvM_aQ8EbyZcu40HR_cUcfRGsCZDHRcZbnNO7zkW)
+ - [Pinshape](https://pinshape.com/)
 
 ## Rules Sites
 
- - https://wahapedia.ru/wh40k10ed/the-rules/quick-start-guide/
- - https://wahapedia.ru/kill-team3/the-rules/core-rules/
- - https://wahapedia.ru/aos4/the-rules/quick-start-guide/
- - https://wahapedia.ru/heresy2/the-rules/introduction/
- - https://warcrier.net/
- - https://mordheimer.net/
- - https://www.necroraw.ru/
+ - [40k 10th ed](https://wahapedia.ru/wh40k10ed/the-rules/quick-start-guide/)
+ - [Kill Team 3rd ed](https://wahapedia.ru/kill-team3/the-rules/core-rules/)
+ - [Age of Sigmar 4th ed](https://wahapedia.ru/aos4/the-rules/quick-start-guide/)
+ - [Horus Heresy 2nd ed](https://wahapedia.ru/heresy2/the-rules/introduction/)
+ - [Warcrier](https://warcrier.net/)
+ - [Mordheimer](https://mordheimer.net/)
+ - [Necroraw](https://www.necroraw.ru/)
